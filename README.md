@@ -1,2 +1,1 @@
-# AmplifyTest
-DirectDial Frontend Project
+# DirectDial
